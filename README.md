@@ -11,9 +11,9 @@ traffic light
 **Output(Run The below files)**
 We have used a pretrained model on MS-COCO dataset
 
-object_detection/object_detection_SSD.ipynb
-Clustering_Project.ipynb
-Mask_RCNN_Demo.ipynb
+-- object_detection/object_detection_SSD.ipynb
+-- Clustering_Project.ipynb
+-- Mask_RCNN_Demo.ipynb
 
 **Results**
 
