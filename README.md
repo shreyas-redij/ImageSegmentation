@@ -5,7 +5,8 @@ This is an implementation of Mask R-CNN on Python 3, Keras, and TensorFlow for C
 We are using City Scape Dataset in order to make the prediction which has following class definitions
 car· truck · bus · on rails· motorcycle · bicycle · caravan · trailer pole · pole group · traffic sign · 
 traffic light
-[I'm an inline-style link](https://www.cityscapes-dataset.com/)
+
+[CityScape Dataset](https://www.cityscapes-dataset.com/)
 
 **Output(Run The below files)**
 We have used a pretrained model on MS-COCO dataset
